@@ -1,0 +1,10 @@
+.txt{
+    color:aqua;
+}
+
+.btn{
+    color:blueviolet;
+    border-radius: 50px;
+    background-color: darkorange;
+    font:bold;
+}
